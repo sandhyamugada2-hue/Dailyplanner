@@ -1,0 +1,5 @@
+{
+  "name": "Schedio - Personal Life Operating System",
+  "description": "A comprehensive life operating system for high-performers, connecting vision and long-term goals to daily execution and structured decision-making.",
+  "requestFramePermissions": ["camera"]
+}
